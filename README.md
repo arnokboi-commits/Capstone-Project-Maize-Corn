@@ -1,4 +1,5 @@
 # Corn Leaf Disease Classification
+A deep-learning image-classification project for identifying common corn leaf diseases.
 
 A TensorFlow image-classification project that identifies four corn leaf conditions:
 
